@@ -62,8 +62,7 @@
 
 ## 📫 Let's Connect!
 
-## 📫 Let's Connect!
 
 - [![Telegram](https://img.shields.io/badge/telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RebelRaider)
 - [![VK](https://img.shields.io/badge/VK-%23177BBD.svg?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/mindreading_genius)
-- Email: leonid.chesnikov@gmail.com
+- [![Email](https://img.shields.io/badge/Email-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonid.chesnikov@gmail.com)

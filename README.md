@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>&#x1F44B; Hello, World! I'm RebelRaider</h1>
+   <h1>Hello, World! I'm RebelRaider</h1>
   <p>
     <a href="https://codetime.dev">
       <img src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24542%26project%3D%26in=0" alt="CodeTime Badge">
@@ -18,13 +18,13 @@
 
 ---
 
-## 💼 About Me
+## About Me
 
 - 🎓 Graduated with a degree in Artificial Intelligence, specializing in [specific area].
 - 💻 Skilled in a variety of programming languages including Python, Java, and JavaScript.
-- 🧠 Strong background in machine learning, deep learning, and artificial intelligence.
-- 🌐 Experienced in web development with frameworks like Flask and React.
-- 📊 Proficient in data analysis and visualization tools such as pandas, matplotlib, and Tableau.
+   Strong background in machine learning, deep learning, and artificial intelligence.
+- 🌐 Experienced in web development with frameworks like FastApi, Django.
+- 📊 Proficient in data analysis and visualization tools such as pandas, matplotlib, seaborn.
 
 ---
 
@@ -54,11 +54,10 @@
 
 ## 🔧 Skills
 
-- **Languages:** Python, Java, JavaScript
-- **Frameworks:** TensorFlow, PyTorch, Flask, React
-- **Tools:** Git, Docker, Jupyter, VS Code
-- **Methodologies:** Agile, Scrum, Test-Driven Development (TDD)
-- **Soft Skills:** Teamwork, Communication, Problem-solving, Adaptability
+- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
+- **Frameworks:** ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white), ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white), FastAPI
+- **Tools:** ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white), ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white), ![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white), ![VS Code](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- **Soft Skills:** Teamwork, Communication, Problem-solving, Adaptability, Leadership
 
 ---
 

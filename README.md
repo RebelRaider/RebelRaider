@@ -20,37 +20,34 @@
 
 ## About Me
 
-- 🎓 Graduated with a degree in Artificial Intelligence, specializing in [specific area].
-- 💻 Skilled in a variety of programming languages including Python, Java, and JavaScript.
-   Strong background in machine learning, deep learning, and artificial intelligence.
-- 🌐 Experienced in web development with frameworks like FastApi, Django.
-- 📊 Proficient in data analysis and visualization tools such as pandas, matplotlib, seaborn.
+🎓 I graduated from Voronezh State University of Engineering Technologies (VSUET) with a degree in Applied Informatics from the Faculty of Computer Science and Management in Technological Systems.
+
+  As an avid researcher, I have authored scientific publications and hold a SPIN-code: 2777-9489.
+
+🏆 I've showcased my skills as a finalist and winner in various hackathons including TulaHackDays2023, Leaders of Digital Transformation, and Digital Breakthrough.
+
+🌍 Fluent in both Russian and English, I believe in effective communication across borders.
+
+💻 Proficient in a range of programming languages including Python, Java, C++, and R. However, Python remains my primary language of choice.
+
+  My preferred backend library is FastAPI, enabling me to build robust APIs efficiently.
+
+  In the realm of machine learning, I leverage libraries such as ChatBoost, XGBoost, and scikit-learn to create powerful models.
+
+🤖 When delving into deep learning, I rely on Pytorch and TensorFlow to implement cutting-edge solutions.
+
+📊 For data visualization, I utilize tools like Matplotlib, Seaborn, and Pandas to transform raw data into insightful visualizations.
+
+🛠️ Apart from my programming skills, I'm well-versed in Linux (as my base operating system), Docker for containerization, Git and GitHub for version control, Jupyter for interactive computing, and VS Code as my preferred integrated development environment (IDE).
 
 ---
 
-## 🛠️ Projects
+## 📫 Let's Connect!
 
-### BankRank-Analyzer
+- [![Telegram](https://img.shields.io/badge/telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RebelRaider)
+- [![VK](https://img.shields.io/badge/VK-%23177BBD.svg?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/mindreading_genius)
+- [![Email](https://img.shields.io/badge/Email-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonid.chesnikov@gmail.com)
 
-[Short description of BankRank-Analyzer project]
-
-### Rutube-Ranger
-
-[Short description of Rutube-Ranger project]
-
-### Departure Dynamics
-
-[Short description of Departure Dynamics project]
-
-### Article-Popularity-Models
-
-[Short description of Article-Popularity-Models project]
-
-### GeoEstateInspector
-
-[Short description of GeoEstateInspector project]
-
----
 
 ## 🔧 Skills
 

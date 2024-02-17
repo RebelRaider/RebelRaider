@@ -62,6 +62,8 @@
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
-- Email: [YourEmail@example.com](mailto:youremail@example.com)
+## 📫 Let's Connect!
+
+- [![Telegram](https://img.shields.io/badge/telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RebelRaider)
+- [![VK](https://img.shields.io/badge/VK-%23177BBD.svg?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/mindreading_genius)
+- Email: leonid.chesnikov@gmail.com

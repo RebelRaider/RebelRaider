@@ -1,5 +1,10 @@
-###[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RebelRaider)](https://github.com/anuraghazra/github-readme-stats)
-###[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24542%26project%3D%26in=0)](https://codetime.dev)
+## Hi there  I'm a Junior Backend developer
+
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24542%26project%3D%26in=0)](https://codetime.dev)
+## 𝗦𝘁𝗮𝘁𝘀
+![RebelRaider's GitHub stats](https://github-readme-stats.vercel.app/api?username=RebelRaider&show_icons=true&theme=synthwave&hide=stars,issues&show_owner=true&show=prs_merged)
+![RebelRaider's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RebelRaider&layout=compact&count_private=true&theme=synthwave&show_owner=true)
+![RebelRaider's WakaTimes](https://github-readme-stats.vercel.app/api/wakatime?username=@RebelRaider)
 <!--
 **RebelRaider/RebelRaider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

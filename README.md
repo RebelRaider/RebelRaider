@@ -55,10 +55,9 @@
 ## 🔧 Skills
 
 - **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
-- **Frameworks:** ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white), ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white), FastAPI
+- **Frameworks:** ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white), ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white), ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 - **Tools:** ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white), ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white), ![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white), ![VS Code](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - **Soft Skills:** Teamwork, Communication, Problem-solving, Adaptability, Leadership
-
 ---
 
 ## 📫 Let's Connect!

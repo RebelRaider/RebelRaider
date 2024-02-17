@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hello, World! I'm RebelRaider</h1>
+   <h1>&#x1F44B; Hello, World! I'm RebelRaider</h1>
   <p>
     <a href="https://codetime.dev">
       <img src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24542%26project%3D%26in=0" alt="CodeTime Badge">

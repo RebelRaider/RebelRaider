@@ -25,7 +25,7 @@
 
 🗝 My preferred <strong>backend library</strong> is <strong>FastAPI</strong>, enabling me to build <strong>robust APIs</strong> efficiently.
 
-📚 In the realm of <strong>machine learning</strong>, I leverage libraries such as <strong>ChatBoost</strong>, <strong>XGBoost</strong>, and <strong>scikit-learn</strong> to create <strong>powerful models</strong>.
+📚 In the realm of <strong>machine learning</strong>, I leverage libraries such as <strong>CatBoost</strong>, <strong>XGBoost</strong>, and <strong>scikit-learn</strong> to create <strong>powerful models</strong>.
 
 🤖 When delving into <strong>deep learning</strong>, I rely on <strong>Pytorch</strong> and <strong>TensorFlow</strong> to implement <strong>cutting-edge solutions</strong>.
 

@@ -11,7 +11,7 @@
 
 ---
 
-## <em>About Me</em>
+## <em>✨ About Me</em>
 
 🎓 I graduated from <strong>Voronezh State University of Engineering Technologies (VSUET)</strong> with a degree in <strong>Applied Informatics</strong> from the Faculty of Computer Science and Management in Technological Systems.
 

@@ -43,10 +43,25 @@
 
 ## 📦 Skills
 
-- **Languages:** ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- **Frameworks:** ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-- **Tools:** ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-- **Soft Skills:** ![Teamwork](https://img.shields.io/badge/Teamwork-%234CAF50.svg?style=for-the-badge&logoColor=white)
+- **Languages:**
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- **Frameworks:**
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+- **Tools:**
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- **Soft Skills:**
+![Teamwork](https://img.shields.io/badge/Teamwork-%234CAF50.svg?style=for-the-badge&logoColor=white)
 ![Communication](https://img.shields.io/badge/Communication-%230077B5.svg?style=for-the-badge&logoColor=white)
 ![Problem-solving](https://img.shields.io/badge/Problem--solving-%23FFA500.svg?style=for-the-badge&logoColor=white)
 ![Adaptability](https://img.shields.io/badge/Adaptability-%23FF5733.svg?style=for-the-badge&logoColor=white)
@@ -62,11 +77,16 @@
 
 ## 🖥️ Workspace Specs
 
-- **Notebook:** ![Lenovo Legion 5 17ACH6](https://img.shields.io/badge/Lenovo_Legion_5_17ACH6-000000?style=for-the-badge&logo=lenovo&logoColor=white)
-- **Operating System:** ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-- **Video Card:** ![NVIDIA GeForce RTX™ 3050 Laptop GPU](https://img.shields.io/badge/NVIDIA-RTX3050Mobile-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-- **RAM:** ![16GB](https://img.shields.io/badge/RAM-16GB-0076C5?style=for-the-badge&logoColor=white)
-- **Processor:** ![AMD Ryzen™ 7 5800H with Radeon™ Graphics × 16](https://img.shields.io/badge/AMD-Ryzen_7_5800H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+- **Notebook:**
+![Lenovo Legion 5 17ACH6](https://img.shields.io/badge/Lenovo_Legion_5_17ACH6-000000?style=for-the-badge&logo=lenovo&logoColor=white)
+- **Operating System:**
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+- **Video Card:**
+![NVIDIA GeForce RTX™ 3050 Laptop GPU](https://img.shields.io/badge/NVIDIA-RTX3050Mobile-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+- **RAM:**
+![16GB](https://img.shields.io/badge/RAM-16GB-0076C5?style=for-the-badge&logoColor=white)
+- **Processor:**
+![AMD Ryzen™ 7 5800H with Radeon™ Graphics × 16](https://img.shields.io/badge/AMD-Ryzen_7_5800H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ## 📫 Let's Connect!
 
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RebelRaider)

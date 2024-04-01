@@ -17,7 +17,7 @@
 
 🔍 As an avid researcher, I have authored <strong>scientific publications</strong> and hold a SPIN-code: <strong>2777-9489</strong>.
 
-🏆 I've showcased my skills as a finalist and winner in various <strong>hackathons</strong> including <strong>TulaHackDays2023</strong>, <strong>Leaders of Digital Transformation</strong>, <strong>Purple Hack 2024</storng>, and <strong>Digital Breakthrough</strong>.
+🏆 I've showcased my skills as a finalist and winner in various <strong>hackathons</strong> including <strong>TulaHackDays2023</strong>, <strong>Leaders of Digital Transformation</strong>, <strong>Purple Hack 2024</strong>, and <strong>Digital Breakthrough</strong>.
 
 🌍 Fluent in both <strong>Russian</strong> and <strong>English</strong>, I believe in <strong>effective communication</strong> across borders.
 

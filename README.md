@@ -75,18 +75,6 @@
 ![Responsible](https://img.shields.io/badge/Responsible-%233CB371.svg?style=for-the-badge&logoColor=white)
 ---
 
-## 🖥️ Workspace Specs
-
-- **Notebook:**
-![Lenovo Legion 5 17ACH6](https://img.shields.io/badge/Lenovo_Legion_5_17ACH6-000000?style=for-the-badge&logo=lenovo&logoColor=white)
-- **Operating System:**
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-- **Video Card:**
-![NVIDIA GeForce RTX™ 3050 Laptop GPU](https://img.shields.io/badge/NVIDIA-RTX3050Mobile-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-- **RAM:**
-![16GB](https://img.shields.io/badge/RAM-16GB-0076C5?style=for-the-badge&logoColor=white)
-- **Processor:**
-![AMD Ryzen™ 7 5800H with Radeon™ Graphics × 16](https://img.shields.io/badge/AMD-Ryzen_7_5800H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ## 📫 Let's Connect!
 
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RebelRaider)

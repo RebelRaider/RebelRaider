@@ -29,4 +29,4 @@ In my research, I keep coming back to a practical question. If two agents use th
 
 I write on Telegram about AI experiments, home automation, travel, and games. I'm gradually building my own smart home with Home Assistant. I've also worn a mohawk for half my life. [One model behind three control panels](https://t.me/rebelraider_en/43) is a good place to start if you're curious about what changes when the same model gets a different set of tools.
 
-[Telegram in English](https://t.me/rebelraider_en) · [Telegram по-русски](https://t.me/rebelraider_ru) · [LinkedIn](https://www.linkedin.com/in/leonid-chesnikov-4a2b70367/)
+[Telegram (EN)](https://t.me/rebelraider_en) · [Telegram (RU)](https://t.me/rebelraider_ru) · [LinkedIn](https://www.linkedin.com/in/leonid-chesnikov-4a2b70367/) · [Habr Career](https://career.habr.com/rebelraider)

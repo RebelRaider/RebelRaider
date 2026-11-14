@@ -29,4 +29,4 @@
 
 В Telegram пишу об экспериментах с ИИ, домашней автоматизации, поездках и играх. Потихоньку собираю умный дом на Home Assistant. Ещё я полжизни хожу с ирокезом. В посте [«Одна модель за тремя пультами»](https://t.me/rebelraider_ru/44) разбираю, что меняется, когда одна и та же модель получает разные инструменты.
 
-[Telegram по-русски](https://t.me/rebelraider_ru) · [Telegram in English](https://t.me/rebelraider_en) · [LinkedIn](https://www.linkedin.com/in/leonid-chesnikov-4a2b70367/)
+[Telegram (RU)](https://t.me/rebelraider_ru) · [Telegram (EN)](https://t.me/rebelraider_en) · [LinkedIn](https://www.linkedin.com/in/leonid-chesnikov-4a2b70367/) · [Хабр Карьера](https://career.habr.com/rebelraider)

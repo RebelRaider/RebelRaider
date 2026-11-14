@@ -2,11 +2,18 @@
 
 **English** · [Русский →](README.ru.md)
 
-I'm Leonid, also known as **RebelRaider**. I build ML systems at **SberHealth**, with a focus on language models, multimodal ML, and AI agents that use tools.
+I'm Leonid, also known as **RebelRaider**, and I'm **TechLead ML/AI Engineer at SberHealth**. I work on language models, multimodal ML, and AI agents that use tools.
 
 In my research, I keep coming back to a practical question. If two agents use the same model, how much do the tools and the workflow around it change what gets done, how long it takes, and what it costs?
 
 ![Glass prism splitting cyan and amber beams of light](assets/prism.webp)
+
+## Experience
+
+- **SberHealth** · TechLead ML/AI Engineer (Aug 2025 – present)
+- **Digital Sector** · Senior Artificial Intelligence Engineer (started Jul 2024)
+- **Digital Partners Global** · Middle+ MLOps Engineer (May 2023 – Jun 2024)
+- **Gazprombank** · Junior Data Engineer, then Middle AI Engineer (Feb 2021 – Mar 2023)
 
 ## Selected code
 

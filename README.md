@@ -1,84 +1,25 @@
-<div align="center">
-   <h1 style="font-family: 'Courier New', Courier, monospace; font-weight: bold; color: #4CAF50; text-shadow: 2px 2px #FFD700;"><em>Salutations, fellow developers!</em> I am <span style="color: #EE82EE;">RebelRaider</span></h1>
+# Leonid Chesnikov
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=RebelRaider&show_icons=true&theme=synthwave&hide=stars,issues&show_owner=true&show=prs_merged" alt="<strong>RebelRaider's</strong> GitHub stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebelRaider&layout=compact&count_private=true&theme=synthwave&show_owner=true" alt="<strong>RebelRaider's</strong> Languages">
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@RebelRaider" alt="<strong>RebelRaider's</strong> WakaTimes">
-</div>
+**English** · [Русский →](README.ru.md)
 
----
+I'm Leonid, also known as **RebelRaider**. I build ML systems at **SberHealth**, with a focus on language models, multimodal ML, and AI agents that use tools.
 
-## <em>✨ About Me</em>
+In my research, I keep coming back to a practical question. If two agents use the same model, how much do the tools and the workflow around it change what gets done, how long it takes, and what it costs?
 
-🎓 I graduated from <strong>Voronezh State University of Engineering Technologies (VSUET)</strong> with a degree in <strong>Applied Informatics</strong> from the Faculty of Computer Science and Management in Technological Systems.
+![Glass prism splitting cyan and amber beams of light](assets/prism.webp)
 
-🔍 As an avid researcher, I have authored <strong>scientific publications</strong> and hold a SPIN-code: <strong>2777-9489</strong>.
+## Selected code
 
-🏆 I've showcased my skills as a finalist and winner in various <strong>hackathons</strong> including <strong>TulaHackDays2023</strong>, <strong>Leaders of Digital Transformation</strong>, <strong>Purple Hack 2024</strong>, and <strong>Digital Breakthrough</strong>.
+- [ClickhouseRAG](https://github.com/RebelRaider/ClickhouseRAG) — a Python package for vector search and retrieval-augmented generation with ClickHouse. [PyPI](https://pypi.org/project/clickhouserag/)
+- [RuTubeOperatorAssistant](https://github.com/RebelRaider/RuTubeOperatorAssistant) — a support assistant we built at a hackathon. It looks up answers in a knowledge base and handles requests with text and images.
 
-🌍 Fluent in both <strong>Russian</strong> and <strong>English</strong>, I believe in <strong>effective communication</strong> across borders.
+## Talks & research
 
-💻 Proficient in a range of <strong>programming languages</strong> including <strong>Python</strong>, <strong>Java</strong>, <strong>C++</strong>, and <strong>R</strong>. However, <strong>Python</strong> remains my <strong>primary language of choice</strong>.
+- [Building an AI platform with n8n, agents, and MCP](https://t.me/sberhealthIT/474) — my talk at the SberHealth ML Meetup. [Slides in Russian](https://disk.360.yandex.ru/i/AT9YmhCWvQr4Qw)
+- [Optimization strategies and evaluation methods for fine-tuning LLMs](https://doi.org/10.24412/2500-1000-2024-4-1-180-184) — a review I co-authored on fine-tuning choices and how to evaluate them.
 
-🗝 My preferred <strong>backend library</strong> is <strong>FastAPI</strong>, enabling me to build <strong>robust APIs</strong> efficiently.
+## Side Effects of Curiosity
 
-📚 In the realm of <strong>machine learning</strong>, I leverage libraries such as <strong>CatBoost</strong>, <strong>XGBoost</strong>, and <strong>scikit-learn</strong> to create <strong>powerful models</strong>.
+I write on Telegram about AI experiments, home automation, travel, and games. I'm gradually building my own smart home with Home Assistant. I've also worn a mohawk for half my life. [One model behind three control panels](https://t.me/rebelraider_en/43) is a good place to start if you're curious about what changes when the same model gets a different set of tools.
 
-🤖 When delving into <strong>deep learning</strong>, I rely on <strong>Pytorch</strong> and <strong>TensorFlow</strong> to implement <strong>cutting-edge solutions</strong>.
-
-📊 For <strong>data visualization</strong>, I utilize tools like <strong>Matplotlib</strong>, <strong>Seaborn</strong>, and <strong>Pandas</strong> to transform raw data into <strong>insightful visualizations</strong>.
-
-🛠️ Apart from my <strong>programming skills</strong>, I'm well-versed in <strong>Linux</strong> (as my <strong>base operating system</strong>), <strong>Docker</strong> for <strong>containerization</strong>, <strong>Git</strong> and <strong>GitHub</strong> for <strong>version control</strong>, <strong>Jupyter</strong> for <strong>interactive computing</strong>, and <strong>VS Code</strong> as my preferred <strong>integrated development environment (IDE)</strong>.
-  </p>
-     <p>
-    <a href="https://codetime.dev">
-      <img src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24542%26project%3D%26in=0" alt="CodeTime Badge">
-    </a>
-  </p>
-
----
-
-## 📦 Skills
-
-- **Languages:**
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- **Frameworks:**
-![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-- **Tools:**
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-- **Soft Skills:**
-![Teamwork](https://img.shields.io/badge/Teamwork-%234CAF50.svg?style=for-the-badge&logoColor=white)
-![Communication](https://img.shields.io/badge/Communication-%230077B5.svg?style=for-the-badge&logoColor=white)
-![Problem-solving](https://img.shields.io/badge/Problem--solving-%23FFA500.svg?style=for-the-badge&logoColor=white)
-![Adaptability](https://img.shields.io/badge/Adaptability-%23FF5733.svg?style=for-the-badge&logoColor=white)
-![Leadership](https://img.shields.io/badge/Leadership-%23FFD700.svg?style=for-the-badge&logoColor=white)
-![Creativity](https://img.shields.io/badge/Creativity-%23FF1493.svg?style=for-the-badge&logoColor=white)
-![Time Management](https://img.shields.io/badge/Time_Management-%2300A500.svg?style=for-the-badge&logoColor=white)
-![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-%23DFF500.svg?style=for-the-badge&logoColor=white)
-![Emotional Intelligence](https://img.shields.io/badge/Emotional_Intelligence-%28696969.svg?style=for-the-badge&logoColor=white)
-![Sociable](https://img.shields.io/badge/Sociable-%2300BFFF.svg?style=for-the-badge&logoColor=white)
-![Quick Analytical Mind](https://img.shields.io/badge/Quick_Analytical_Mind-%23FFD73A.svg?style=for-the-badge&logoColor=white)
-![Responsible](https://img.shields.io/badge/Responsible-%233CB371.svg?style=for-the-badge&logoColor=white)
----
-
-## 📫 Let's Connect!
-
-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RebelRaider)
-- [![VK](https://img.shields.io/badge/VK-%23177BBD.svg?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/mindreading_genius)
-- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonid.chesnikov@gmail.com)
-
----
+[Telegram in English](https://t.me/rebelraider_en) · [Telegram по-русски](https://t.me/rebelraider_ru) · [LinkedIn](https://www.linkedin.com/in/leonid-chesnikov-4a2b70367/)
